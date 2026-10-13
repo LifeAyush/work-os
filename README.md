@@ -1,4 +1,10 @@
-# work_os
+# Work OS
+
+Personal operating system for tasks, routines, and categories.
+
+Live: https://work-os-olive-alpha.vercel.app
+
+https://github.com/LifeAyush/work-os
 
 Next.js app (App Router) with [Supabase](https://supabase.com) Postgres. This repo is scaffolded for persistent task data later; right now it only verifies the database connection.
 
